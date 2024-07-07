@@ -1,4 +1,4 @@
-baseURL = 'https://ajeethlego.github.io/the-website/'
+baseURL = 'https://blog.frothmoon.in/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
