@@ -1,4 +1,4 @@
-baseURL = 'http://frothmoon.in/'
+baseURL = 'http://www.frothmoon.in/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
