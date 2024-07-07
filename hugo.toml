@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://ajeethlego.github.io/the-website/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
