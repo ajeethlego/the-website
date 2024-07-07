@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://frothmoon.in/</link>
+    <link>http://frothmoon.in/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Jul 2024 11:50:12 +0530</lastBuildDate>
-    <atom:link href="https://frothmoon.in/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://frothmoon.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://frothmoon.in/posts/first/</link>
+      <link>http://frothmoon.in/posts/first/</link>
       <pubDate>Sun, 07 Jul 2024 11:50:12 +0530</pubDate>
-      <guid>https://frothmoon.in/posts/first/</guid>
+      <guid>http://frothmoon.in/posts/first/</guid>
       <description>##Welcome bro!!
 This is first md.</description>
     </item>
